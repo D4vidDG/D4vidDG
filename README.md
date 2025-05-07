@@ -14,9 +14,10 @@ Here you can find links to source code of my projects.
 - <b>JavaScript</b>
   - [Chess.js](https://github.com/objetos/chess-videogame): Chess game developed from scrath in JavaScript using [p5.js](https://p5js.org/) and [p5.quadrille.js](https://objetos.github.io/p5.quadrille.js/).
 - <b>Java</b>
-  - [Tanks Battle Royale](https://github.com/D4vidDG/Final_Project): 
+  - [Tanks Battle Royale](https://github.com/D4vidDG/Final_Project): 2D top down shooter. Challenge your friends to epic tank battles with unique porwer-ups.
  
 <h2>🕹️ Featured scripts:</h2>
+- 
 
 <h2> 🤳 Connect with me:</h2>
 
