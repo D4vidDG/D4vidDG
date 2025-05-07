@@ -16,7 +16,7 @@ Here you can find links to source code of my projects.
 - <b>Java</b>
   - [Tanks Battle Royale](https://github.com/D4vidDG/Final_Project): 2D top down shooter. Challenge your friends to epic tank battles with unique porwer-ups.
  
-<h2>🕹️ Featured scripts:</h2>
+<h2>⭐ Featured scripts:</h2>
 - 
 
 <h2> 🤳 Connect with me:</h2>
