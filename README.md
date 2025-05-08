@@ -1,6 +1,6 @@
 <h1>Hi, I'm Juan David! <br/><a href="https://www.linkedin.com/in/juan-david-diaz-garcia-8b72781b0/">Game Programmer and Unity Developer!</a>
 
-Here you can find links to source code of my projects.
+Here you can find direct links to my projects' source code.
 
 <h2>🕹️ My Games:</h2>
 
@@ -15,9 +15,11 @@ Here you can find links to source code of my projects.
   - [Chess.js](https://github.com/objetos/chess-videogame): Chess game developed from scrath in JavaScript using [p5.js](https://p5js.org/) and [p5.quadrille.js](https://objetos.github.io/p5.quadrille.js/).
 - <b>Java</b>
   - [Tanks Battle Royale](https://github.com/D4vidDG/Final_Project): 2D top down shooter. Challenge your friends to epic tank battles with unique porwer-ups.
- 
+
 <h2>⭐ Featured scripts:</h2>
-- 
+
+- [Spell Creator](https://github.com/D4vidDG/Potion-Seller-Prototype/blob/master/Assets/Scripts/Editor/SpellCreator.cs): Editor tool created in Unity. This tool allows the developer to create handmade signs and link a script to them. These signs are stored in data and can be recognized in-game by a gesture-recognition algorithm. When a gesture is detected, the associated script is executed. Used in Potion Seller.
+- [Extensions](https://github.com/D4vidDG/DDG_Utility_Scripts/blob/main/Extensions.cs): My own collection of functions that extend Unity API for special use cases.
 
 <h2> 🤳 Connect with me:</h2>
 
