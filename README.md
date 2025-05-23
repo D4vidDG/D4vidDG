@@ -18,6 +18,12 @@ Here you can find direct links to my projects' source code.
 
 <h2>⭐ Featured scripts:</h2>
 
+- [AI Path Follower](https://github.com/D4vidDG/DDG_Utility_Scripts/tree/main/AI): Custom script that controls the movement of AI agents that follow a path with defined waypoints on a navigation mesh. The script enables options like starting from a certain waypoint on the path, traverse the path in reverse order, cycle the path in different ways, and stop momentarily at some waypoints.
+- <b>Chess Scripts</b>
+  - [Move Generation](https://github.com/objetos/chess-videogame/tree/master/src/MoveGeneration): Collection of scripts that generates legal moves based on the state of the board. Special rules (castling, enpassant, promotion) and king safety are implemented in `MoveGenerator.js`. Basic rules for moving pieces are implemented by the `Piece.js`
+abstract class and its derived classes.
+  - [Making/Unmaking moves in board](https://github.com/objetos/chess-videogame/blob/master/src/Board/Board.js): The `Board.js` class defines methods that provide information about the board and, most importantly, implements the logic to make moves on the board and unmake them keeping the original state of the board.
+  - [Move Record](https://github.com/objetos/chess-videogame/blob/master/src/MoveRecord.js): Implements a record that holds the history of moves done by each side. It abides by the rules of [algebraic notation](https://www.chess.com/terms/chess-notation).  
 - [Spell Creator](https://github.com/D4vidDG/Potion-Seller-Prototype/blob/master/Assets/Scripts/Editor/SpellCreator.cs): Editor tool created in Unity. This tool allows the developer to create handmade signs and link a script to them. These signs are stored in data and can be recognized in-game by a gesture-recognition algorithm. When a gesture is detected, the associated script is executed. Used in Potion Seller.
 - [Extensions](https://github.com/D4vidDG/DDG_Utility_Scripts/blob/main/Extensions.cs): My own collection of functions that extend Unity API for special use cases.
 
