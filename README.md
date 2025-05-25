@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan David! <br/><a href="https://www.linkedin.com/in/juan-david-diaz-garcia-8b72781b0/">Game Programmer and Unity Developer!</a>
+<h1>Hi, I'm Juan David! <br/><a href="https://www.ddevgames.com">Game Programmer and Unity Developer!</a>
 
 Here you can find direct links to my projects' source code.
 
