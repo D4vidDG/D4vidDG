@@ -29,6 +29,8 @@ abstract class and its derived classes.
   - [Spell Saver](https://github.com/D4vidDG/Potion-Seller-Prototype/blob/master/Assets/Scripts/Crafting/Spelling/SpellSaver.cs): Saves spells created with `SpellCreator.cs` as assets in Unity's asset database. Also, it receives a set of points and retrieves the information of the spell whose gesture matches those points.
   - [Spell Drawer](https://github.com/D4vidDG/Potion-Seller-Prototype/blob/master/Assets/Scripts/Crafting/Spelling/SpellDrawer.cs): Allows player to draw spells on screen. Then, it captures the points of the drawn line and fires an event if the line matches a spell saved in the asset database. 
   - [Spell Caster](https://github.com/D4vidDG/Potion-Seller-Prototype/blob/master/Assets/Scripts/Crafting/Spelling/SpellCaster.cs): Applies the effect of a spell to the color wheel.
+- <b>UI</b>
+  - [Shops](https://github.com/D4vidDG/GDTV_Jam_2024/tree/master/Assets/Scripts/UI/Shops)
 - <b>[Extensions](https://github.com/D4vidDG/DDG_Utility_Scripts/blob/main/Extensions.cs)</b>: My own collection of functions that extend Unity API for special use cases.
 
 <h2> 🤳 Connect with me:</h2>
