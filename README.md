@@ -19,6 +19,7 @@ Here you can find direct links to my projects' source code.
 <h2>⭐ Featured scripts:</h2>
 
 - <b>[AI Path Follower](https://github.com/D4vidDG/DDG_Utility_Scripts/tree/main/AI)</b>: Custom script that controls the movement of AI agents that follow a path with defined waypoints on a navigation mesh. The script enables options like starting from a certain waypoint on the path, traverse the path in reverse order, cycle the path in different ways, and stop momentarily at some waypoints.
+![Alt text](https://github.com/D4vidDG/D4vidDG/blob/main/Path-Follower.gif)
 - <b>Chess Scripts</b>
   - [Move Generation](https://github.com/objetos/chess-videogame/tree/master/src/MoveGeneration): Collection of scripts that generates legal moves based on the state of the board. Special rules (castling, enpassant, promotion) and king safety are implemented in `MoveGenerator.js`. Basic rules for moving pieces are implemented by the `Piece.js`
 abstract class and its derived classes.
