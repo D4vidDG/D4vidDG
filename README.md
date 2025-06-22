@@ -48,7 +48,12 @@ https://github.com/user-attachments/assets/6e8a4ef9-3f5f-4d6c-b0ab-32bc3f87f1f9
 </p>
 
 - <b>UI</b>
-  - [Shops](https://github.com/D4vidDG/GDTV_Jam_2024/tree/master/Assets/Scripts/UI/Shops)
+  - [Shops](https://github.com/D4vidDG/GDTV_Jam_2024/tree/master/Assets/Scripts/UI/Shops): Shops for weapons and weapon upgrades.
+
+ <p align="center">
+  <img src="UI-Shops.gif" width=600 />
+</p>
+
 - <b>[Extensions](https://github.com/D4vidDG/DDG_Utility_Scripts/blob/main/Extensions.cs)</b>: My own collection of functions that extend Unity API for special use cases.
 
 <h2> 🤳 Connect with me:</h2>
