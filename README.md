@@ -54,6 +54,13 @@ https://github.com/user-attachments/assets/6e8a4ef9-3f5f-4d6c-b0ab-32bc3f87f1f9
   <img src="UI-Shops.gif" width=600 />
 </p>
 
+-Witch Book
+
+ <p align="center">
+  <img src="WitchBook.gif" width=600 />
+</p>
+
+
 - <b>[Extensions](https://github.com/D4vidDG/DDG_Utility_Scripts/blob/main/Extensions.cs)</b>: My own collection of functions that extend Unity API for special use cases.
 
 <h2> 🤳 Connect with me:</h2>
