@@ -17,10 +17,9 @@ Here you can find direct links to my projects' source code.
   - [Tanks Battle Royale](https://github.com/D4vidDG/Final_Project): 2D top down shooter. Challenge your friends to epic tank battles with unique porwer-ups.
 
 <h2>⭐ Featured scripts:</h2>
-- <b>UI</b>
-  - Deck Creator: Screen where the player builds a deck of heroes, reviews heroes stats and levels them up as he makes progress.
 
-  
+- <b>UI</b>
+  - Deck Creator: Screen where the player builds a deck of heroes, reviews heroes stats and levels them up as he makes progress.<p align="center"> <img src="Deck-creator.gif" width=300/></p>
   - [Shops](https://github.com/D4vidDG/GDTV_Jam_2024/tree/master/Assets/Scripts/UI/Shops): Shops for weapons and weapon upgrades.<p align="center"> <img src="UI-Shops.gif" width=600 /></p>
   - Witch Book: Displays information about ingredients and spells and how they can be used to craft potions.
 
