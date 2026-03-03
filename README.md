@@ -18,16 +18,6 @@ Here you can find direct links to my projects' source code.
 
 <h2>⭐ Featured scripts:</h2>
 
-<h3>UI</h3>
-
-- Deck Creator: Screen where the player builds a deck of heroes, reviews heroes stats and levels them up as he makes progress.<p align="center"> <img src="Deck-creator.gif" height=450 /></p>
-- [Shops](https://github.com/D4vidDG/GDTV_Jam_2024/tree/master/Assets/Scripts/UI/Shops): Shops for weapons and weapon upgrades.<p align="center"> <img src="UI-Shops.gif" width=600 /></p>
-- Witch Book: Displays information about ingredients and spells and how they can be used to craft potions.
-
- <p align="center">
-  <img src="WitchBook.gif" width=600 />
-</p>
-
 <h3> Gameplay </h3>
 
 - <b>[AI Path Follower](https://github.com/D4vidDG/DDG_Utility_Scripts/tree/main/AI)</b>: Custom script that controls the movement of AI agents that follow a path with defined waypoints on a navigation mesh. The script enables options like starting from a certain waypoint on the path, traverse the path in reverse order, cycle the path in different ways, and stop momentarily at some waypoints.
@@ -53,10 +43,19 @@ https://github.com/user-attachments/assets/6e8a4ef9-3f5f-4d6c-b0ab-32bc3f87f1f9
   - [Spell Creator](https://github.com/D4vidDG/Potion-Seller-Prototype/blob/master/Assets/Scripts/Editor/SpellCreator.cs): Editor tool created in Unity. This tool allows the developer to create handmade signs and link a script to them. These signs are stored in data and can be recognized in-game by a gesture-recognition algorithm. When a gesture is detected, the associated script is executed.
   - [Spell Saver](https://github.com/D4vidDG/Potion-Seller-Prototype/blob/master/Assets/Scripts/Crafting/Spelling/SpellSaver.cs): Saves spells created with `SpellCreator.cs` as assets in Unity's asset database. Also, it receives a set of points and retrieves the information of the spell whose gesture matches those points.<p align="center"><img src="SpellCreator.gif" width=800 /></p>
 
+<h3>UI</h3>
+
+- <b>Deck Creator</b>: Screen where the player builds a deck of heroes, reviews heroes stats and levels them up as he makes progress.<p align="center"> <img src="Deck-creator.gif" height=450 /></p>
+- [Shops](https://github.com/D4vidDG/GDTV_Jam_2024/tree/master/Assets/Scripts/UI/Shops): Shops for weapons and weapon upgrades.<p align="center"> <img src="UI-Shops.gif" width=600 /></p>
+- <b>Witch Book</b>: Displays information about ingredients and spells and how they can be used to craft potions.
+
+ <p align="center">
+  <img src="WitchBook.gif" width=600 />
+</p>
 
 <h3> Utils </h3>
 
-- <b>[Extensions](https://github.com/D4vidDG/DDG_Utility_Scripts/blob/main/Extensions.cs)</b>: My own collection of functions that extend Unity API for special use cases.
+- <b>[Extensions](https://github.com/D4vidDG/DDG_Utility_Scripts/blob/main/Extensions.cs)</b>: My own collection of functions that extend Unity API for common repeated operations or special use cases.
 
 <h2> 🤳 Connect with me:</h2>
 
