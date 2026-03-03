@@ -5,6 +5,7 @@ Here you can find direct links to my projects' source code.
 <h2>🕹️ My Games:</h2>
 
 - <b>Personal Projects</b>
+  - [3D Combat Prototype](https://github.com/D4vidDG/CombatPrototype3D): Features core combat mechanics (move, dodge, attack, shoot) with melee and ranged weapons.
   - [Potion Seller](https://github.com/D4vidDG/Potion-Seller-Prototype/tree/master/Assets/Scripts): 3D puzzle crafting game. Craft potions and look at the wacky effects they have on your clients!
   - [Kitchen Khaos](https://github.com/pakasfand/Kitchen-Khaos/tree/master/Assets/Scripts): 3D action arcade game.  Your kitchen has been cursed and the utensils have come to life! Hurry up and clean all the plates and silverware before they run away.
   - [Afterlife](https://github.com/D4vidDG/Afterlife/tree/master/Assets/Scripts): 2D platformer. A bloody adventure where you discover the secrets of a haunted mansion risking your life and limbs!
@@ -20,6 +21,7 @@ Here you can find direct links to my projects' source code.
 
 <h3> Gameplay </h3>
 
+- <b>[Combat Player State Machine](https://github.com/D4vidDG/CombatPrototype3D/tree/main/Assets/Scripts/Player)</b>: Implementation of player controller through a FSM (Finite State Machine) to transition beween movement and other combat mechanics.
 - <b>[AI Path Follower](https://github.com/D4vidDG/DDG_Utility_Scripts/tree/main/AI)</b>: Custom script that controls the movement of AI agents that follow a path with defined waypoints on a navigation mesh. The script enables options like starting from a certain waypoint on the path, traverse the path in reverse order, cycle the path in different ways, and stop momentarily at some waypoints.
 
 <p align="center">
